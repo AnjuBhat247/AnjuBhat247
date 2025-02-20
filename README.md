@@ -15,19 +15,10 @@
 ### 📊 My GitHub Stats  
 ![Anjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjubhat247&show_icons=true&theme=radical) 
 
-### 🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=anjubhat247&theme=radical&hide_border=true)
-
 ### 🔥 GitHub Contributions Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjubhat247&theme=github-dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjubhat247&langs_count=6&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=anjubhat247&theme=radical&hide_border=true" />
-</p>
-
 ### 🚀 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjubhat247&layout=compact&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjubhat247&layout=donut)](https://github.com/anjubhat247/github-readme-stats)
 
 
