@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Anjana!  
+## 🌟 Data Scientist | AI Enthusiast | Data Analyst  
 
-<!--
-**AnjuBhat247/AnjuBhat247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About Me
+- 🎓 Master's in Data Science & AI  
+- 🔍 Passionate about data-driven solutions  
+- 🛠️ Skilled in Python, SQL, Machine Learning, and Power BI  
+- 🌍 Looking for opportunities in Data Science & Analytics  
 
-Here are some ideas to get you started:
+### 📊 My GitHub Stats  
+![Anjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Top Skills  
+- **Languages:** Python, SQL, R  
+- **ML & AI:** Scikit-learn, TensorFlow, Deep Learning  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhatanjana)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/anjubhat247)  
