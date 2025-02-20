@@ -22,8 +22,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjubhat247&theme=github-dark)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=6&layout=compact&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjubhat247&langs_count=6&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=anjubhat247&theme=radical&hide_border=true" />
 </p>
 
 ### 🚀 Top Languages  
