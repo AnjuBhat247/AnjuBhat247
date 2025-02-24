@@ -18,11 +18,6 @@
 ### 🔥 GitHub Contributions Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjubhat247&theme=github-dark)
 
-### 🚀 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjubhat247&layout=donut)](https://github.com/anjubhat247/github-readme-stats)
-
-
-
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhatanjana)  
